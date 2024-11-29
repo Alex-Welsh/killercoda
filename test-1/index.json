@@ -1,0 +1,34 @@
+{
+    "title": "Linux and Python Challenge",
+    "description": "A short set of problem solving challenges",
+    "details": {
+      "intro": {
+        "text": "intro.md"
+      },
+      "steps": [
+        {
+          "title": "Part 1 - The Linux terminal",
+          "text": "part-1.md"
+        },
+        {
+            "title": "Part 1 - The Linux terminal - Solutions",
+            "text": "part-1-sol.md"
+        },
+        {
+            "title": "Part 2 - Rock, Paper, Scissors",
+            "text": "part-2.md"
+        }
+      ],
+      "finish": {
+        "text": "finish.md"
+      },
+      "assets": {
+        "host01": [
+          {"file": "rock-paper-scissors.py", "target": "~/"}
+        ]
+      }
+    },
+    "backend": {
+      "imageid": "ubuntu"
+    }
+  }
