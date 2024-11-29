@@ -1,7 +1,5 @@
 ### Part 1 - The Linux terminal - Solutions!
 
-Start by exploring the environment using the terminal in front of you.
-
 - How many files are there in this directory?
     - There are _probably_ 5 files. A surprisingly tricky question because
       there are hidden files in this directory. There is one visible file,
@@ -24,7 +22,7 @@ Start by exploring the environment using the terminal in front of you.
 
 ## Extension questions - Solutions!
 
-- What Operating System is the terminal running?
+- What Operating System is the lab node running?
     - Ubuntu 20.04 (Focal Fossa). As always there are a few ways of checking
       this, one way would be to look in the `/etc/os-release` file. 
 - How much system memory is available to you?

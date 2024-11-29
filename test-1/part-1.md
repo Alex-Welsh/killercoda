@@ -10,6 +10,6 @@ Start by exploring the environment using the terminal in front of you.
 
 ## Extension questions
 
-- What Operating System is the terminal running?
+- What Operating System is the lab node running?
 - How much system memory is available to you?
 - What is the current date?

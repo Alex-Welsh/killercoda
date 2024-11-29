@@ -1,4 +1,4 @@
 
-### WELL DONE !
+### The end!
 
-You solved this challenge!
+Thank you for taking part!
