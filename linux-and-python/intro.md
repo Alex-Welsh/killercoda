@@ -1,8 +1,8 @@
 
 ### Welcome to StackHPC's Python Killercoda challenge
 
-This exercise that will cover some Linux command line basics and a short Python
-programming task. 
+This exercise will cover some Linux command line basics and a short Python
+programming task.
 
 The programming task is purposefully open ended, and you are encouraged to make
 any design descisions you think will improve the program.
